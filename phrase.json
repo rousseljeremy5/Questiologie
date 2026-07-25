@@ -1,0 +1,402 @@
+{
+  "1": {
+    "en": "Do I take care of my body every day, without waiting for a specific occasion?",
+    "fr": "Est-ce que je prends soin de mon corps chaque jour, sans attendre une occasion précise ?"
+  },
+  "2": {
+    "en": "Does my sleep allow me to be fully present when I meet someone?",
+    "fr": "Est-ce que mon sommeil me permet d'être pleinement présent quand je rencontre quelqu'un ?"
+  },
+  "3": {
+    "en": "Do I move regularly enough to feel good in my own skin?",
+    "fr": "Est-ce que je bouge assez régulièrement pour me sentir bien dans ma peau ?"
+  },
+  "4": {
+    "en": "Do I dress in a way that reflects who I really am?",
+    "fr": "Est-ce que je m'habille d'une manière qui reflète qui je suis vraiment ?"
+  },
+  "5": {
+    "en": "Do I smile easily, or do I hold it back out of habit?",
+    "fr": "Est-ce que je souris facilement, ou est-ce que je le retiens par habitude ?"
+  },
+  "6": {
+    "en": "Do I look people in the eye when I talk to them?",
+    "fr": "Est-ce que je regarde les gens dans les yeux quand je leur parle ?"
+  },
+  "7": {
+    "en": "Do I go out often enough to meet new people?",
+    "fr": "Est-ce que je sors de chez moi assez souvent pour croiser de nouvelles personnes ?"
+  },
+  "8": {
+    "en": "Do I frequent places where I can be authentically myself?",
+    "fr": "Est-ce que je fréquente des lieux où je peux être authentiquement moi-même ?"
+  },
+  "9": {
+    "en": "Do I practice activities that naturally put me in contact with others?",
+    "fr": "Est-ce que je pratique des activités qui me mettent naturellement en contact avec d'autres ?"
+  },
+  "10": {
+    "en": "Do I start conversations, or do I always wait for others to approach me?",
+    "fr": "Est-ce que j'engage la conversation, ou est-ce que j'attends toujours qu'on vienne à moi ?"
+  },
+  "11": {
+    "en": "Do I know how to ask a question that invites the other person to share more about themselves?",
+    "fr": "Est-ce que je sais poser une question qui invite l'autre à en dire plus sur lui-même ?"
+  },
+  "12": {
+    "en": "Do I know how to talk about myself without putting myself down or overselling myself?",
+    "fr": "Est-ce que je sais parler de moi sans me dévaloriser ni me survendre ?"
+  },
+  "13": {
+    "en": "Do I know how to stay silent without that silence becoming awkward?",
+    "fr": "Est-ce que je sais rester silencieux sans que ce silence devienne un malaise ?"
+  },
+  "14": {
+    "en": "Do I know how to laugh at myself without falling apart?",
+    "fr": "Est-ce que je sais rire de moi-même sans m'effondrer ?"
+  },
+  "15": {
+    "en": "Do I know how to say what I think even when it might not please others?",
+    "fr": "Est-ce que je sais dire ce que je pense même quand cela pourrait déplaire ?"
+  },
+  "16": {
+    "en": "Do I know how to express a desire clearly, without detours or excuses?",
+    "fr": "Est-ce que je sais exprimer un désir clairement, sans détour ni excuse ?"
+  },
+  "17": {
+    "en": "Do I know how to say no without guilt?",
+    "fr": "Est-ce que je sais dire non sans culpabilité ?"
+  },
+  "18": {
+    "en": "Do I know how to accept a rejection without it crushing me?",
+    "fr": "Est-ce que je sais accepter un refus sans que cela m'effondre ?"
+  },
+  "19": {
+    "en": "Do I know how to revive a conversation that's running out of steam?",
+    "fr": "Est-ce que je sais relancer une conversation qui s'essouffle ?"
+  },
+  "20": {
+    "en": "Do I know how to end a conversation without fleeing or dragging it out?",
+    "fr": "Est-ce que je sais clore une conversation sans fuir ni traîner ?"
+  },
+  "21": {
+    "en": "Do I believe I have worth independent of others' gaze?",
+    "fr": "Est-ce que je crois avoir de la valeur indépendamment du regard des autres ?"
+  },
+  "22": {
+    "en": "Do I speak to myself with the same kindness I'd offer a friend?",
+    "fr": "Est-ce que je me parle à moi-même avec la même bienveillance que j'offrirais à un ami ?"
+  },
+  "23": {
+    "en": "Do I know what I'm really looking for — connection, validation, pleasure, stability?",
+    "fr": "Est-ce que je sais ce que je cherche réellement — connexion, validation, plaisir, stabilité ?"
+  },
+  "24": {
+    "en": "Is my life already full enough that a new encounter would be an addition, not a filler?",
+    "fr": "Est-ce que ma vie est déjà suffisamment pleine pour qu'une rencontre soit un ajout, non un comblement ?"
+  },
+  "25": {
+    "en": "Do I feel entitled to take up space in a room, a conversation?",
+    "fr": "Est-ce que je me sens légitime à occuper de l'espace dans une pièce, une conversation ?"
+  },
+  "26": {
+    "en": "Am I still carrying the weight of a past rejection into my present interactions?",
+    "fr": "Est-ce que je porte encore le poids d'un rejet passé dans mes interactions présentes ?"
+  },
+  "27": {
+    "en": "Do I compare my situation to others' more than I actually act myself?",
+    "fr": "Est-ce que je compare ma situation à celle des autres plus que je n'agis moi-même ?"
+  },
+  "28": {
+    "en": "Do I hold beliefs about myself that I've never actually verified?",
+    "fr": "Est-ce que j'ai des croyances sur moi que je n'ai jamais vraiment vérifiées ?"
+  },
+  "29": {
+    "en": "Do I judge myself more harshly than someone who genuinely likes me would?",
+    "fr": "Est-ce que je me juge plus sévèrement que ne le ferait quelqu'un qui m'aime bien ?"
+  },
+  "30": {
+    "en": "Do I have close friends I can talk to honestly about this topic?",
+    "fr": "Est-ce que j'ai des amis proches à qui je peux parler honnêtement de ce sujet ?"
+  },
+  "31": {
+    "en": "Does my current circle push me toward more encounters or away from them?",
+    "fr": "Est-ce que mon entourage actuel me pousse vers plus de rencontres ou m'en éloigne ?"
+  },
+  "32": {
+    "en": "Do I have regular social activities built into my week?",
+    "fr": "Est-ce que j'ai des activités sociales régulières inscrites dans ma semaine ?"
+  },
+  "33": {
+    "en": "Do I join groups, clubs, or communities related to my interests?",
+    "fr": "Est-ce que je rejoins des groupes, clubs ou communautés en lien avec mes intérêts ?"
+  },
+  "34": {
+    "en": "Do I use digital dating tools in a way that's aligned with my values?",
+    "fr": "Est-ce que j'utilise les outils numériques de rencontre d'une manière alignée avec mes valeurs ?"
+  },
+  "35": {
+    "en": "Does my profile, online or in person, show who I really am?",
+    "fr": "Est-ce que mon profil, en ligne ou en personne, montre qui je suis vraiment ?"
+  },
+  "36": {
+    "en": "Do I follow up on invitations I receive, or do I dodge them?",
+    "fr": "Est-ce que je donne suite aux invitations qu'on me fait, ou est-ce que je les esquive ?"
+  },
+  "37": {
+    "en": "Do I myself propose occasions to meet again?",
+    "fr": "Est-ce que je propose moi-même des occasions de se revoir ?"
+  },
+  "38": {
+    "en": "Do I know how to create an enjoyable moment without everything resting on the other person?",
+    "fr": "Est-ce que je sais créer un moment agréable sans que tout repose sur l'autre ?"
+  },
+  "39": {
+    "en": "Do I know how to listen to the other person's desires as much as my own?",
+    "fr": "Est-ce que je sais écouter les désirs de l'autre autant que les miens ?"
+  },
+  "40": {
+    "en": "Do I create a space where the other person feels safe to say yes or no?",
+    "fr": "Est-ce que je crée un espace où l'autre se sent en sécurité pour dire oui ou non ?"
+  },
+  "41": {
+    "en": "Do I respect the other person's pace without forcing things?",
+    "fr": "Est-ce que je respecte le rythme de l'autre sans forcer les choses ?"
+  },
+  "42": {
+    "en": "Do I know how to read signals of interest without over-interpreting them one way?",
+    "fr": "Est-ce que je sais lire les signaux d'intérêt sans les interpréter dans un seul sens ?"
+  },
+  "43": {
+    "en": "Do I know how to name a misunderstanding rather than let it fester?",
+    "fr": "Est-ce que je sais nommer un malentendu plutôt que le laisser s'envenimer ?"
+  },
+  "44": {
+    "en": "Do I manage my anxiety before a meeting rather than let it drive me?",
+    "fr": "Est-ce que je gère mon anxiété avant une rencontre plutôt que de la laisser me diriger ?"
+  },
+  "45": {
+    "en": "Do I breathe and prepare, or do I improvise in a panic?",
+    "fr": "Est-ce que je respire, me prépare, ou est-ce que j'improvise dans la panique ?"
+  },
+  "46": {
+    "en": "Do I practice conversation with strangers in low-stakes contexts?",
+    "fr": "Est-ce que je pratique la conversation avec des inconnus dans des contextes sans enjeu ?"
+  },
+  "47": {
+    "en": "Do I have a living space I can proudly welcome someone into?",
+    "fr": "Est-ce que j'ai un espace de vie qui me permet d'accueillir quelqu'un avec fierté ?"
+  },
+  "48": {
+    "en": "Do I take care of my hygiene and appearance out of self-respect?",
+    "fr": "Est-ce que je prends soin de mon hygiène et de mon apparence par respect pour moi-même ?"
+  },
+  "49": {
+    "en": "Do I have hobbies that make me interesting in my own eyes first?",
+    "fr": "Est-ce que j'ai des loisirs qui me rendent intéressant à mes propres yeux d'abord ?"
+  },
+  "50": {
+    "en": "Do I cultivate passions that naturally give rise to conversation?",
+    "fr": "Est-ce que je nourris des passions qui donnent matière à conversation naturellement ?"
+  },
+  "51": {
+    "en": "Do I travel, explore, step out of my routine enough to have things to tell?",
+    "fr": "Est-ce que je voyage, découvre, sors de ma routine assez pour avoir des choses à raconter ?"
+  },
+  "52": {
+    "en": "Do I know how to give sincere compliments that don't sound calculated?",
+    "fr": "Est-ce que je sais faire des compliments sincères sans qu'ils sonnent calculés ?"
+  },
+  "53": {
+    "en": "Do I know how to receive a compliment without downplaying it?",
+    "fr": "Est-ce que je sais recevoir un compliment sans le minimiser ?"
+  },
+  "54": {
+    "en": "Do I manage my alcohol or other substance use in these social contexts?",
+    "fr": "Est-ce que je gère ma consommation d'alcool ou d'autres substances dans ces contextes sociaux ?"
+  },
+  "55": {
+    "en": "Do I approach people I'm attracted to, or only the ones that feel safe?",
+    "fr": "Est-ce que je vais vers les gens qui m'attirent, ou seulement vers ceux qui semblent sûrs ?"
+  },
+  "56": {
+    "en": "Do I diversify the places where I meet people rather than repeating the same pattern?",
+    "fr": "Est-ce que je diversifie les lieux où je rencontre des gens plutôt que de répéter le même schéma ?"
+  },
+  "57": {
+    "en": "Do I know how to turn an acquaintance into a friend, and a friend into something more if it happens naturally?",
+    "fr": "Est-ce que je sais transformer une connaissance en ami, et un ami en quelque chose de plus si cela vient naturellement ?"
+  },
+  "58": {
+    "en": "Do I have clear boundaries that I set without aggression?",
+    "fr": "Est-ce que j'ai des limites claires que je pose sans agressivité ?"
+  },
+  "59": {
+    "en": "Do I know how to recognize when I'm forcing a situation that doesn't want to happen?",
+    "fr": "Est-ce que je sais reconnaître quand je force une situation qui ne veut pas se faire ?"
+  },
+  "60": {
+    "en": "Do I know how to withdraw from an interaction that doesn't suit me?",
+    "fr": "Est-ce que je sais me retirer d'une interaction qui ne me convient pas ?"
+  },
+  "61": {
+    "en": "Do I believe I deserve pleasure and intimacy, with no condition to fulfill first?",
+    "fr": "Est-ce que je crois que je mérite du plaisir et de l'intimité, sans condition à remplir d'abord ?"
+  },
+  "62": {
+    "en": "Do I still associate this desire with shame, and where does it come from?",
+    "fr": "Est-ce que j'associe encore ce désir à de la honte, et d'où vient-elle ?"
+  },
+  "63": {
+    "en": "Do I hold inherited taboos I've never questioned myself?",
+    "fr": "Est-ce que j'ai des tabous hérités que je n'ai jamais questionnés moi-même ?"
+  },
+  "64": {
+    "en": "Do I know my own body, my own desires, apart from another person's presence?",
+    "fr": "Est-ce que je connais mon propre corps, mes propres désirs, en dehors de la présence d'un autre ?"
+  },
+  "65": {
+    "en": "Do I know how to talk about sexuality calmly rather than with embarrassment?",
+    "fr": "Est-ce que je sais parler de sexualité avec calme plutôt qu'avec gêne ?"
+  },
+  "66": {
+    "en": "Do I inform myself about consent, pleasure, and communication in a healthy way?",
+    "fr": "Est-ce que je m'informe sur le consentement, le plaisir, la communication d'une manière saine ?"
+  },
+  "67": {
+    "en": "Do I have friends I can discuss these topics with without judgment?",
+    "fr": "Est-ce que j'ai des amis avec qui je peux échanger sur ces sujets sans jugement ?"
+  },
+  "68": {
+    "en": "Do I romanticize the idea more than I act toward it?",
+    "fr": "Est-ce que je romantise l'idée plus que je n'agis vers elle ?"
+  },
+  "69": {
+    "en": "Do I wait for a perfect situation instead of acting within the real imperfect one?",
+    "fr": "Est-ce que j'attends une situation parfaite au lieu d'agir dans l'imparfait réel ?"
+  },
+  "70": {
+    "en": "Do I confuse loneliness with an inability to create connection?",
+    "fr": "Est-ce que je confonds solitude et incapacité à créer du lien ?"
+  },
+  "71": {
+    "en": "Did my last attempt at closeness, if it failed, teach me something specific?",
+    "fr": "Est-ce que ma dernière tentative de rapprochement, si elle a échoué, m'a appris quelque chose de précis ?"
+  },
+  "72": {
+    "en": "Do I draw lessons from my failures, or do I avoid them mentally?",
+    "fr": "Est-ce que je tire des leçons de mes échecs, ou est-ce que je les fuis mentalement ?"
+  },
+  "73": {
+    "en": "Do I celebrate my small social steps forward, even minor ones?",
+    "fr": "Est-ce que je célèbre mes petites avancées sociales, même minimes ?"
+  },
+  "74": {
+    "en": "Do I set myself one concrete small step this week, rather than a vague goal?",
+    "fr": "Est-ce que je me fixe un petit pas concret cette semaine, plutôt qu'un objectif flou ?"
+  },
+  "75": {
+    "en": "Is my social circle wide enough to multiply natural opportunities?",
+    "fr": "Est-ce que j'ai un cercle social suffisamment large pour multiplier les occasions naturelles ?"
+  },
+  "76": {
+    "en": "Do I work on my posture, my voice, my body language?",
+    "fr": "Est-ce que je travaille ma posture, ma voix, mon langage corporel ?"
+  },
+  "77": {
+    "en": "Do I know how to hold a light conversation before going deeper?",
+    "fr": "Est-ce que je sais tenir une conversation légère avant d'aller vers du profond ?"
+  },
+  "78": {
+    "en": "Do I know how to create positive tension without slipping into unhealthy ambiguity?",
+    "fr": "Est-ce que je sais créer de la tension positive sans être dans l'ambiguïté malsaine ?"
+  },
+  "79": {
+    "en": "Do I know how to flirt in a way that feels like me, without copying an outside model?",
+    "fr": "Est-ce que je sais flirter d'une manière qui me ressemble, sans copier un modèle extérieur ?"
+  },
+  "80": {
+    "en": "Do I treat rejection as information, not as a verdict on my worth?",
+    "fr": "Est-ce que je gère le rejet comme une information, et non comme un verdict sur ma valeur ?"
+  },
+  "81": {
+    "en": "Do I keep trying after a refusal, or do I shut down for a long time?",
+    "fr": "Est-ce que je continue d'essayer après un refus, ou est-ce que je me referme longtemps ?"
+  },
+  "82": {
+    "en": "Do I take care of my sexual health in advance, out of respect for myself and the other person?",
+    "fr": "Est-ce que je prends soin de ma santé sexuelle en amont, par respect pour moi et pour l'autre ?"
+  },
+  "83": {
+    "en": "Do I know where to find reliable information if I have questions on this topic?",
+    "fr": "Est-ce que je sais où trouver de l'information fiable si j'ai des questions sur ce sujet ?"
+  },
+  "84": {
+    "en": "Am I doing therapeutic work if old blockages persist?",
+    "fr": "Est-ce que j'ai un travail thérapeutique en cours si des blocages anciens persistent ?"
+  },
+  "85": {
+    "en": "Do I distinguish what stems from passing shyness from what stems from an older fear?",
+    "fr": "Est-ce que je distingue ce qui relève de la timidité passagère de ce qui relève d'une peur plus ancienne ?"
+  },
+  "86": {
+    "en": "Do I know how to ask a professional for help if the blockage is beyond my own tools?",
+    "fr": "Est-ce que je sais demander de l'aide à un professionnel si le blocage dépasse mes propres outils ?"
+  },
+  "87": {
+    "en": "Do I frequent environments where self-expression is valued?",
+    "fr": "Est-ce que je fréquente des environnements où l'on valorise l'expression de soi ?"
+  },
+  "88": {
+    "en": "Do I surround myself with people who pull me upward rather than toward isolation?",
+    "fr": "Est-ce que je m'entoure de personnes qui me tirent vers le haut plutôt que vers l'isolement ?"
+  },
+  "89": {
+    "en": "Do I limit time spent watching others' lives instead of living my own?",
+    "fr": "Est-ce que je limite le temps passé à observer la vie des autres au lieu de vivre la mienne ?"
+  },
+  "90": {
+    "en": "Do I know how to create an opportunity myself rather than waiting for it to arrive?",
+    "fr": "Est-ce que je sais créer une occasion moi-même plutôt que d'attendre qu'elle arrive ?"
+  },
+  "91": {
+    "en": "Do I dare invite someone I'm interested in, even with fear in my stomach?",
+    "fr": "Est-ce que j'ose inviter quelqu'un qui m'intéresse, même avec la peur au ventre ?"
+  },
+  "92": {
+    "en": "Do I know how to make a respectful first physical move when the moment feels right?",
+    "fr": "Est-ce que je sais faire un premier pas physique respectueux quand le moment semble juste ?"
+  },
+  "93": {
+    "en": "Do I know how to apologize sincerely if I sense discomfort in the other person?",
+    "fr": "Est-ce que je sais m'excuser sincèrement si je perçois un malaise chez l'autre ?"
+  },
+  "94": {
+    "en": "Do I know how to stay myself under social pressure rather than play a role?",
+    "fr": "Est-ce que je sais rester moi-même sous pression sociale plutôt que de jouer un rôle ?"
+  },
+  "95": {
+    "en": "Do I build my confidence through successes in other areas of my life?",
+    "fr": "Est-ce que je nourris ma confiance par des réussites dans d'autres domaines de ma vie ?"
+  },
+  "96": {
+    "en": "Does my self-esteem depend too much on this one outcome rather than my life as a whole?",
+    "fr": "Est-ce que mon estime de moi dépend trop de ce résultat précis plutôt que de l'ensemble de ma vie ?"
+  },
+  "97": {
+    "en": "Do I know how to wait without that waiting turning into gnawing anxiety?",
+    "fr": "Est-ce que je sais patienter sans que l'attente devienne de l'anxiété rongeante ?"
+  },
+  "98": {
+    "en": "Do I turn this desire into an active project, or a passive wish I merely endure?",
+    "fr": "Est-ce que je fais de ce désir un projet actif, ou un souhait passif que je subis ?"
+  },
+  "99": {
+    "en": "Do I regularly revisit these questions to see which ones I've actually made progress on?",
+    "fr": "Est-ce que je révise régulièrement ces questions pour voir lesquelles j'ai réellement fait avancer ?"
+  },
+  "100": {
+    "en": "Do I treat this pursuit with as much seriousness and tenderness as any other project that matters to me?",
+    "fr": "Est-ce que je traite cette quête avec autant de sérieux et de tendresse que n'importe quel autre projet qui compte pour moi ?"
+  }
+}
