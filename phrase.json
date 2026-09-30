@@ -1,402 +1,122 @@
 {
   "1": {
-    "en": "Do I take care of my body every day, without waiting for a specific occasion?",
-    "fr": "Est-ce que je prends soin de mon corps chaque jour, sans attendre une occasion précise ?"
+    "en": "Can I notice a thought without needing to understand it?",
+    "fr": "Est-ce que je peux remarquer une pensée sans avoir besoin de la comprendre ?"
   },
   "2": {
-    "en": "Does my sleep allow me to be fully present when I meet someone?",
-    "fr": "Est-ce que mon sommeil me permet d'être pleinement présent quand je rencontre quelqu'un ?"
+    "en": "When I want to understand, am I looking for a form of security?",
+    "fr": "Quand je veux comprendre, est-ce que je cherche une forme de sécurité ?"
   },
   "3": {
-    "en": "Am I protecting my mental space from external noise and useless noise?",
-    "fr": "Est-ce que je protège mon espace mental du bruit extérieur et des agitations inutiles ?"
+    "en": "Can I stop before turning an experience into an explanation?",
+    "fr": "Est-ce que je peux m'arrêter avant de transformer une expérience en explication ?"
   },
   "4": {
-    "en": "Is every line of code I write a concrete step toward my financial and personal freedom?",
-    "fr": "Est-ce que chaque ligne de code que j'écris est un pas concret vers ma liberté financière et personnelle ?"
+    "en": "Can I notice the impulse to justify myself without following it?",
+    "fr": "Est-ce que je peux remarquer l'impulsion de me justifier sans la suivre ?"
   },
   "5": {
-    "en": "Do I recognize that my vital energy belongs strictly to me?",
-    "fr": "Est-ce que je reconnais que mon énergie vitale m'appartient strictement ?"
+    "en": "Can I feel what is here without criticizing or correcting it?",
+    "fr": "Est-ce que je peux sentir ce qui est là sans le critiquer ni le corriger ?"
   },
   "6": {
-    "en": "Am I keeping a clear boundary between my internal alignment and institutional expectations?",
-    "fr": "Est-ce que je maintiens une frontière claire entre mon alignement intérieur et les attentes institutionnelles ?"
+    "en": "Am I feeling the sensation, or am I creating a story about it?",
+    "fr": "Est-ce que je ressens la sensation, ou est-ce que je crée une histoire à son sujet ?"
   },
   "7": {
-    "en": "Does my current focus serve my long-term technical independence?",
-    "fr": "Est-ce que ma concentration actuelle sert mon indépendance technique à long terme ?"
+    "en": "Can I return from the story to the actual sensation in my body?",
+    "fr": "Est-ce que je peux revenir de l'histoire à la sensation réelle dans mon corps ?"
   },
   "8": {
-    "en": "Am I choosing calm and stability over useless justification?",
-    "fr": "Est-ce que je choisis le calme et la stabilité plutôt que la justification inutile ?"
+    "en": "Where do I actually feel this experience in my body?",
+    "fr": "Où est-ce que je ressens réellement cette expérience dans mon corps ?"
   },
   "9": {
-    "en": "Do I honor my physical need for rest without feeling guilty?",
-    "fr": "Est-ce que j'honore mon besoin physique de repos sans culpabilité ?"
+    "en": "Can I describe the sensation without giving it a psychological meaning?",
+    "fr": "Est-ce que je peux décrire la sensation sans lui donner de signification psychologique ?"
   },
   "10": {
-    "en": "Is my daily routine structured around what truly brings me clarity?",
-    "fr": "Est-ce que ma routine quotidienne est structurée autour de ce qui m'apporte une vraie clarté ?"
+    "en": "Is the sensation hot, cold, heavy, light, expanding, contracting, tense, or diffuse?",
+    "fr": "La sensation est-elle chaude, froide, lourde, légère, expansive, contractée, tendue ou diffuse ?"
   },
   "11": {
-    "en": "Am I detached from external labels and reductive judgments?",
-    "fr": "Est-ce que je me détache des étiquettes extérieures et des jugements réducteurs ?"
+    "en": "Can I let the sensation unfold without trying to make it disappear?",
+    "fr": "Est-ce que je peux laisser la sensation se déployer sans chercher à la faire disparaître ?"
   },
   "12": {
-    "en": "Does analyzing a complex logic puzzle help me build confidence in my reasoning?",
-    "fr": "Est-ce que l'analyse d'une logique complexe me permet de renforcer la confiance dans mon raisonnement ?"
+    "en": "Can I allow the sensation to reach its natural point of dissolution?",
+    "fr": "Est-ce que je peux laisser la sensation atteindre son point naturel de résorption ?"
   },
   "13": {
-    "en": "Do I give my mind the quiet time it needs after a demanding study session?",
-    "fr": "Est-ce que j'accorde à mon esprit le temps de calme dont il a besoin après une session d'étude exigeante ?"
+    "en": "Am I allowing one thought to dissolve before creating another?",
+    "fr": "Est-ce que je laisse une pensée se résorber avant d'en créer une autre ?"
   },
   "14": {
-    "en": "Am I aware that fixing bugs step by step reinforces my technical mastery?",
-    "fr": "Est-ce que j'ai conscience que résoudre des bugs étape par étape renforce ma maîtrise technique ?"
+    "en": "Can I feel an emotion without making it part of my identity?",
+    "fr": "Est-ce que je peux ressentir une émotion sans en faire une partie de mon identité ?"
   },
   "15": {
-    "en": "Is my home environment a safe refuge where I can replenish my vital energy?",
-    "fr": "Est-ce que mon environnement à la maison est un refuge sûr où je peux recharger mon énergie vitale ?"
+    "en": "Am I saying 'I am afraid', or am I simply feeling fear?",
+    "fr": "Est-ce que je dis « j'ai peur », ou est-ce que je ressens simplement la peur ?"
   },
   "16": {
-    "en": "Do I value solid written facts over verbal promises and vague chatter?",
-    "fr": "Est-ce que je valorise les faits écrits solides plutôt que les promesses verbales et les discours vagues ?"
+    "en": "Am I saying 'I am sad', or am I simply feeling sadness?",
+    "fr": "Est-ce que je dis « je suis triste », ou est-ce que je ressens simplement la tristesse ?"
   },
   "17": {
-    "en": "Am I investing my time in learning skills that belong entirely to me?",
-    "fr": "Est-ce que j'investis mon temps dans l'apprentissage de compétences qui m'appartiennent entièrement ?"
+    "en": "Can I experience an emotion without appropriating it?",
+    "fr": "Est-ce que je peux vivre une émotion sans me l'approprier ?"
   },
   "18": {
-    "en": "Does my posture reflect inner quietness and full self-sovereignty?",
-    "fr": "Est-ce que ma posture reflète le calme intérieur et la pleine souveraineté sur moi-même ?"
+    "en": "Can I let fear be felt without trying to remove it?",
+    "fr": "Est-ce que je peux laisser la peur être ressentie sans chercher à la supprimer ?"
   },
   "19": {
-    "en": "Am I choosing to leave system paradoxes behind to focus on my code?",
-    "fr": "Est-ce que je choisis de laisser les paradoxes du système derrière moi pour me concentrer sur mon code ?"
+    "en": "Can I let sadness be present without deciding that I am sad?",
+    "fr": "Est-ce que je peux laisser la tristesse être présente sans décider que je suis triste ?"
   },
   "20": {
-    "en": "Do I feel the grounding strength that comes from mastering a structured computer language?",
-    "fr": "Est-ce que je ressens la force d'ancrage qui vient de la maîtrise d'un langage informatique structuré ?"
+    "en": "Can I recognize projection without trying to change it?",
+    "fr": "Est-ce que je peux reconnaître une projection sans chercher à la modifier ?"
   },
   "21": {
-    "en": "Is my attention fully dedicated to building my own projects today?",
-    "fr": "Est-ce que mon attention est pleinement consacrée à la construction de mes propres projets aujourd'hui ?"
+    "en": "Am I living what is happening now, or am I living a projection of the future?",
+    "fr": "Est-ce que je vis ce qui se passe maintenant, ou est-ce que je vis une projection du futur ?"
   },
   "22": {
-    "en": "Am I keeping my mind clear by stepping away from unnecessary social drama?",
-    "fr": "Est-ce que je garde l'esprit clair en me tenant à l'écart des drames sociaux inutiles ?"
+    "en": "Can I let my image of the past be what it is without carrying it forward?",
+    "fr": "Est-ce que je peux laisser mon image du passé être ce qu'elle est sans la porter vers l'avenir ?"
   },
   "23": {
-    "en": "Do I acknowledge that my sensitivity is a source of perception, not a flaw?",
-    "fr": "Est-ce que je reconnais que ma sensibilité est une source de perception, et non un défaut ?"
+    "en": "Can I remember that my representation of the past is happening now?",
+    "fr": "Est-ce que je peux me rappeler que ma représentation du passé se produit maintenant ?"
   },
   "24": {
-    "en": "Am I making choices based on my real physical capacity each morning?",
-    "fr": "Est-ce que je fais des choix basés sur ma capacité physique réelle chaque matin ?"
+    "en": "Can I meet this moment as if it were the first time?",
+    "fr": "Est-ce que je peux rencontrer ce moment comme si c'était la première fois ?"
   },
   "25": {
-    "en": "Is my learning pace respected, sustainable, and steadily bringing results?",
-    "fr": "Est-ce que mon rythme d'apprentissage est respecté, durable et porteur de résultats réguliers ?"
+    "en": "Can I stop separating cause from effect and simply see the whole situation?",
+    "fr": "Est-ce que je peux cesser de séparer la cause de l'effet et simplement voir l'ensemble de la situation ?"
   },
   "26": {
-    "en": "Do I observe institutional procedures with calm detachment?",
-    "fr": "Est-ce que j'observe les procédures institutionnelles avec un détachement calme ?"
+    "en": "Can I accept that I do not need to know why something is happening?",
+    "fr": "Est-ce que je peux accepter de ne pas avoir besoin de savoir pourquoi quelque chose arrive ?"
   },
   "27": {
-    "en": "Am I remembering that my worth does not depend on administrative approval?",
-    "fr": "Est-ce que je me rappelle que ma valeur ne dépend aucunement de la validation administrative ?"
+    "en": "Can I act from listening rather than from reaction?",
+    "fr": "Est-ce que je peux agir à partir de l'écoute plutôt qu'à partir de la réaction ?"
   },
   "28": {
-    "en": "Does walking in nature help me restore my focus and biological balance?",
-    "fr": "Est-ce que marcher dans la nature m'aide à restaurer ma concentration et mon équilibre biologique ?"
+    "en": "Can I accept my functioning without judging it as good or bad?",
+    "fr": "Est-ce que je peux accepter mon fonctionnement sans le juger comme bon ou mauvais ?"
   },
   "29": {
-    "en": "Am I filtering out demanding requests that do not serve my growth?",
-    "fr": "Est-ce que je filtre les sollicitations exigeantes qui ne servent pas mon épanouissement ?"
+    "en": "Can I leave what appears completely free to unfold and dissolve?",
+    "fr": "Est-ce que je peux laisser ce qui apparaît totalement libre de se déployer et de se résorber ?"
   },
   "30": {
-    "en": "Do I celebrate small technical breakthroughs as real milestones?",
-    "fr": "Est-ce que je célèbre les petites avancées techniques comme de véritables jalons ?"
-  },
-  "31": {
-    "en": "Is my daily effort aligned with my vision of economic independence?",
-    "fr": "Est-ce que mon effort quotidien est aligné avec ma vision de l'indépendance économique ?"
-  },
-  "32": {
-    "en": "Am I treating my mind with patience as I absorb complex new concepts?",
-    "fr": "Est-ce que je traite mon esprit avec patience pendant que j'assimile de nouveaux concepts complexes ?"
-  },
-  "33": {
-    "en": "Do I keep my objectives clear, simple, and shielded from external noise?",
-    "fr": "Est-ce que je garde mes objectifs clairs, simples et protégés du bruit extérieur ?"
-  },
-  "34": {
-    "en": "Am I confident in my ability to analyze and solve structural problems?",
-    "fr": "Est-ce que j'ai confiance dans ma capacité à analyser et résoudre des problèmes structurels ?"
-  },
-  "35": {
-    "en": "Does setting firm personal boundaries preserve my capacity to learn?",
-    "fr": "Est-ce que poser des limites personnelles fermes préserve ma capacité d'apprentissage ?"
-  },
-  "36": {
-    "en": "Am I using digital tools as leverage for my personal emancipation?",
-    "fr": "Est-ce que j'utilise les outils numériques comme un levier pour mon émancipation personnelle ?"
-  },
-  "37": {
-    "en": "Do I refuse to engage in sterile arguments that drain my mental energy?",
-    "fr": "Est-ce que je refuse de m'engager dans des débats stériles qui siphonnent mon énergie mentale ?"
-  },
-  "38": {
-    "en": "Is my health protected by balanced nutrition and sufficient daily sleep?",
-    "fr": "Est-ce que ma santé est protégée par une alimentation équilibrée et un sommeil quotidien suffisant ?"
-  },
-  "39": {
-    "en": "Am I staying grounded in tangible reality rather than speculative worry?",
-    "fr": "Est-ce que je reste ancré dans la réalité tangible plutôt que dans les inquiétudes spéculatives ?"
-  },
-  "40": {
-    "en": "Do I feel the peace that comes with closing useless files and moving forward?",
-    "fr": "Est-ce que je ressens la paix qui vient en fermant les dossiers inutiles et en allant de l'avant ?"
-  },
-  "41": {
-    "en": "Am I mastering the art of remaining calm when surrounding systems get chaotic?",
-    "fr": "Est-ce que je maîtrise l'art de rester calme quand les systèmes environnants deviennent chaotiques ?"
-  },
-  "42": {
-    "en": "Is every hour spent on code an investment in my future autonomy?",
-    "fr": "Est-ce que chaque heure passée à coder est un investissement dans mon autonomie future ?"
-  },
-  "43": {
-    "en": "Do I respect my body's signals of fatigue before reaching exhaustion?",
-    "fr": "Est-ce que je respecte les signaux de fatigue de mon corps avant d'atteindre l'épuisement ?"
-  },
-  "44": {
-    "en": "Am I keeping my personal life focused on peace and quiet stability?",
-    "fr": "Est-ce que je garde ma vie personnelle axée sur la paix et la stabilité tranquille ?"
-  },
-  "45": {
-    "en": "Does my clarity of thought allow me to see through surface pretenses?",
-    "fr": "Est-ce que ma clarté de pensée me permet de voir à travers les semblants de surface ?"
-  },
-  "46": {
-    "en": "Am I building a career path that respects my need for remote work and focus?",
-    "fr": "Est-ce que je construis un parcours professionnel qui respecte mon besoin de travail à distance et de concentration ?"
-  },
-  "47": {
-    "en": "Do I value rigorous logic over emotional confusion?",
-    "fr": "Est-ce que je privilégie la rigueur logique plutôt que la confusion émotionnelle ?"
-  },
-  "48": {
-    "en": "Am I taking ownership of my time management without external pressure?",
-    "fr": "Est-ce que je prends la pleine responsabilité de ma gestion du temps sans pression extérieure ?"
-  },
-  "49": {
-    "en": "Does my determination grow stronger as I acquire real technical skills?",
-    "fr": "Est-ce que ma détermination se renforce à mesure que j'acquiers de vraies compétences techniques ?"
-  },
-  "50": {
-    "en": "Am I letting go of the need to convince people who do not understand my journey?",
-    "fr": "Est-ce que j'abandonne le besoin de convaincre ceux qui ne comprennent pas mon parcours ?"
-  },
-  "51": {
-    "en": "Do I trust my intellect to navigate complex administrative environments safely?",
-    "fr": "Est-ce que je fais confiance à mon intelligence pour naviguer en sécurité dans des environnements administratifs complexes ?"
-  },
-  "52": {
-    "en": "Is my mind serene because my legal rights are properly documented?",
-    "fr": "Est-ce que mon esprit est serein parce que mes droits légaux sont dûment étayés ?"
-  },
-  "53": {
-    "en": "Am I ensuring that my daily actions reflect my deepest core values?",
-    "fr": "Est-ce que je m'assure que mes actions quotidiennes reflètent mes valeurs fondamentales les plus profondes ?"
-  },
-  "54": {
-    "en": "Do I create space every day to breathe deeply and reconnect with myself?",
-    "fr": "Est-ce que je crée un espace chaque jour pour respirer profondément et me reconnecter à moi-même ?"
-  },
-  "55": {
-    "en": "Am I maintaining a calm posture regardless of external delays?",
-    "fr": "Est-ce que je conserve une posture calme quel que soit le rythme des délais extérieurs ?"
-  },
-  "56": {
-    "en": "Does my practice of software testing sharpen my attention to detail?",
-    "fr": "Est-ce que ma pratique du test logiciel affine mon attention aux détails ?"
-  },
-  "57": {
-    "en": "Am I protecting my learning routine from unwanted interruptions?",
-    "fr": "Est-ce que je protège ma routine d'apprentissage contre les interruptions non désirées ?"
-  },
-  "58": {
-    "en": "Do I recognize that true independence starts with mental clarity?",
-    "fr": "Est-ce que je reconnais que la véritable indépendance commence par la clarté mentale ?"
-  },
-  "59": {
-    "en": "Am I keeping my focus on building practical tools for my future self?",
-    "fr": "Est-ce que je garde mon attention sur la création d'outils pratiques pour mon avenir ?"
-  },
-  "60": {
-    "en": "Does my quiet environment allow me to work with deep concentration?",
-    "fr": "Est-ce que mon environnement calme me permet de travailler en concentration profonde ?"
-  },
-  "61": {
-    "en": "Am I proud of taking full sovereignty over my professional orientation?",
-    "fr": "Est-ce que je suis fier de prendre la pleine souveraineté sur mon orientation professionnelle ?"
-  },
-  "62": {
-    "en": "Do I filter incoming information to keep only what is useful?",
-    "fr": "Est-ce que je filtre les informations entrantes pour ne garder que ce qui est utile ?"
-  },
-  "63": {
-    "en": "Am I reinforcing my mental boundaries against patronizing attitudes?",
-    "fr": "Est-ce que je renforce mes limites mentales contre les attitudes paternalistes ?"
-  },
-  "64": {
-    "en": "Does every completed module bring me closer to professional mastery?",
-    "fr": "Est-ce que chaque module terminé me rapproche de la maîtrise professionnelle ?"
-  },
-  "65": {
-    "en": "Am I allowing myself to step back when a situation becomes unproductive?",
-    "fr": "Est-ce que je m'autorise à prendre du recul lorsqu'une situation devient improductive ?"
-  },
-  "66": {
-    "en": "Do I keep my physical energy reserved for high-value activities?",
-    "fr": "Est-ce que je réserve mon énergie physique pour les activités à haute valeur ajoutée ?"
-  },
-  "67": {
-    "en": "Am I standing upright, aligned with my personal integrity?",
-    "fr": "Est-ce que je reste debout, en parfait alignement avec mon intégrité personnelle ?"
-  },
-  "68": {
-    "en": "Does understanding system structures help me remain immune to stress?",
-    "fr": "Est-ce que la compréhension des structures systémiques m'aide à rester immunisé contre le stress ?"
-  },
-  "69": {
-    "en": "Am I systematically replacing anxiety with organized action?",
-    "fr": "Est-ce que je remplace systématiquement l'anxiété par une action organisée ?"
-  },
-  "70": {
-    "en": "Do I honor my need for solitude and quiet reflection?",
-    "fr": "Est-ce que j'honore mon besoin de solitude et de réflexion calme ?"
-  },
-  "71": {
-    "en": "Am I using structured computer logic to clear away mental fog?",
-    "fr": "Est-ce que j'utilise la logique informatique structurée pour dissiper le brouillard mental ?"
-  },
-  "72": {
-    "en": "Does my daily commitment prove my reliability to myself?",
-    "fr": "Est-ce que mon engagement quotidien prouve ma propre fiabilité envers moi-même ?"
-  },
-  "73": {
-    "en": "Am I protecting my creative ideas from superficial critiques?",
-    "fr": "Est-ce que je protège mes idées créatives des critiques superficielles ?"
-  },
-  "74": {
-    "en": "Do I acknowledge that every hurdle overcome makes me more resilient?",
-    "fr": "Est-ce que je reconnais que chaque obstacle surmonté me rend plus résilient ?"
-  },
-  "75": {
-    "en": "Am I maintaining full control over my schedule and my priorities?",
-    "fr": "Est-ce que je conserve le contrôle total sur mon emploi du temps et mes priorités ?"
-  },
-  "76": {
-    "en": "Does my focus on quality assurance reflect my search for truth?",
-    "fr": "Est-ce que mon intérêt pour l'assurance qualité reflète ma recherche de la vérité ?"
-  },
-  "77": {
-    "en": "Am I keeping a healthy distance from bureaucratic power dynamics?",
-    "fr": "Est-ce que je garde une distance saine par rapport aux dynamiques de pouvoir bureaucratiques ?"
-  },
-  "78": {
-    "en": "Do I cultivate quiet confidence in my capacity to adapt and succeed?",
-    "fr": "Est-ce que je cultive une confiance tranquille dans ma capacité à m'adapter et à réussir ?"
-  },
-  "79": {
-    "en": "Am I ensuring that my study space is clean, quiet, and inspiring?",
-    "fr": "Est-ce que je m'assure que mon espace d'étude est propre, calme et inspirant ?"
-  },
-  "80": {
-    "en": "Does my daily perseverance build an unshakeable foundation for my freedom?",
-    "fr": "Est-ce que ma persévérance quotidienne bâtit des fondations inébranlables pour ma liberté ?"
-  },
-  "81": {
-    "en": "Am I detached from short-term provocations and focused on the big picture?",
-    "fr": "Est-ce que je me détache des provocations à court terme pour garder la vue d'ensemble ?"
-  },
-  "82": {
-    "en": "Do I respect the natural pace of my mind as I learn programming concepts?",
-    "fr": "Est-ce que je respecte le rythme naturel de mon esprit pendant que j'apprends la programmation ?"
-  },
-  "83": {
-    "en": "Am I making sure that my daily speech remains concise, clear, and dignified?",
-    "fr": "Est-ce que je m'assure que ma parole quotidienne reste concise, claire et digne ?"
-  },
-  "84": {
-    "en": "Does taking charge of my technical future give me deep inner calm?",
-    "fr": "Est-ce que prendre en charge mon avenir technique m'apporte un calme intérieur profond ?"
-  },
-  "85": {
-    "en": "Am I preserving my vital energy by staying out of pointless conflicts?",
-    "fr": "Est-ce que je préserve mon énergie vitale en restant hors des conflits inutiles ?"
-  },
-  "86": {
-    "en": "Do I recognize that structured code brings order to my daily routine?",
-    "fr": "Est-ce que je reconnais que le code structuré apporte de l'ordre dans mon quotidien ?"
-  },
-  "87": {
-    "en": "Am I continuously grounding myself in concrete, verified facts?",
-    "fr": "Est-ce que je m'ancre continuellement dans des faits concrets et vérifiés ?"
-  },
-  "88": {
-    "en": "Does my practice of self-care keep me resilient against external pressure?",
-    "fr": "Est-ce que ma pratique du soin de soi me garde résilient face aux pressions extérieures ?"
-  },
-  "89": {
-    "en": "Am I keeping my goals clear and focused on total financial independence?",
-    "fr": "Est-ce que je garde mes objectifs clairs et centrés sur la totale indépendance financière ?"
-  },
-  "90": {
-    "en": "Do I appreciate the clarity that comes from discarding parasitic tasks?",
-    "fr": "Est-ce que j'apprécie la clarté qui vient en éliminant les tâches parasites ?"
-  },
-  "91": {
-    "en": "Am I trusting my inner compass when external opinions create noise?",
-    "fr": "Est-ce que je fais confiance à ma boussole intérieure lorsque les opinions extérieures font du bruit ?"
-  },
-  "92": {
-    "en": "Does my commitment to mastering JavaScript strengthen my autonomy every day?",
-    "fr": "Est-ce que mon engagement à maîtriser JavaScript renforce mon autonomie chaque jour ?"
-  },
-  "93": {
-    "en": "Am I keeping my physical posture grounded, relaxed, and fully present?",
-    "fr": "Est-ce que je garde une posture physique ancrée, détendue et pleinement présente ?"
-  },
-  "94": {
-    "en": "Do I choose to see challenges as technical bugs waiting for a logical fix?",
-    "fr": "Est-ce que je choisis de voir les défis comme des bugs techniques en attente d'un correctif logique ?"
-  },
-  "95": {
-    "en": "Am I protecting my sleep hygiene to maintain high intellectual performance?",
-    "fr": "Est-ce que je protège mon hygiène de sommeil pour maintenir une haute performance intellectuelle ?"
-  },
-  "96": {
-    "en": "Does my quiet determination outweigh any institutional slowness?",
-    "fr": "Est-ce que ma détermination tranquille surpasse n'importe quelle lenteur institutionnelle ?"
-  },
-  "97": {
-    "en": "Am I staying focused on my own growth without comparing myself to others?",
-    "fr": "Est-ce que je reste concentré sur ma propre croissance sans me comparer aux autres ?"
-  },
-  "98": {
-    "en": "Do I acknowledge that every line of logic mastered is a victory over chaos?",
-    "fr": "Est-ce que je reconnais que chaque ligne de logique maîtrisée est une victoire sur le chaos ?"
-  },
-  "99": {
-    "en": "Am I keeping my energy dedicated to my personal and professional freedom?",
-    "fr": "Est-ce que je garde mon énergie dédiée à ma liberté personnelle et professionnelle ?"
-  },
-  "100": {
-    "en": "Do I know, deep down, that I am the sovereign author of my own life?",
-    "fr": "Est-ce que je sais, au plus profond de moi, que je suis l'auteur souverain de ma propre vie ?"
+    "en": "Can I return to listening without trying to understand what listening is?",
+    "fr": "Est-ce que je peux revenir à l'écoute sans chercher à comprendre ce qu'est l'écoute ?"
   }
 }
